@@ -1,7 +1,0 @@
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.csproj.AssemblyReference.cache
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.GeneratedMSBuildEditorConfig.editorconfig
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.AssemblyInfoInputs.cache
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.AssemblyInfo.cs
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.csproj.CoreCompileInputs.cache
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.MvcApplicationPartsAssemblyInfo.cs
-A:\C#\KTraLTCSDL\KTraLTCSDL\obj\Debug\net8.0\KTraLTCSDL.MvcApplicationPartsAssemblyInfo.cache
